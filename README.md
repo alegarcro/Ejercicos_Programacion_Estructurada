@@ -133,5 +133,7 @@ void imprimirEstudiante2(Estudiante *est) {
     printf("Nombre: %s, Edad: %d, Promedio: %.2f\n", est->nombre, est->edad, est->promedio);
 }
 imprimirEstudiante2(&estudiante1);
-Nota: Por favor, verifica la sintaxis y asegúrate de que la compilación sea exitosa, ya que los códigos proporcionados son fragmentos y es posible que debas incluir bibliotecas apropiadas o definir main() para probarlos.
+
+
+### Nota: Por favor, verifica la sintaxis y asegúrate de que la compilación sea exitosa, ya que los códigos proporcionados son fragmentos y es posible que debas incluir bibliotecas apropiadas o definir main() para probarlos.
 
